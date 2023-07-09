@@ -1,13 +1,21 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+    background-color: #ebf1ea; /* Gray Nurse */
+    color: #1d3e1d; /* #1d3e1d */
+  }
+  
+  .bg-glade-green {
+    background-color: #618f61; /* Glade Green */
+  }
+  
+  .text-norway {
+    color: #a3c2a3; /* Norway */
+  }
+  
+  .text-tom-thumb {
+    color: #345b34; /* Tom Thumb */
+  }
+  
+  .cursor-pointer {
+    cursor: pointer;
+  }
+  
